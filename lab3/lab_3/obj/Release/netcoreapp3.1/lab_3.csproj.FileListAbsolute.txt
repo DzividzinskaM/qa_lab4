@@ -1,0 +1,13 @@
+D:\Fork\qa-course\lab3\lab_3\bin\Release\netcoreapp3.1\lab_3.exe
+D:\Fork\qa-course\lab3\lab_3\bin\Release\netcoreapp3.1\lab_3.deps.json
+D:\Fork\qa-course\lab3\lab_3\bin\Release\netcoreapp3.1\lab_3.runtimeconfig.json
+D:\Fork\qa-course\lab3\lab_3\bin\Release\netcoreapp3.1\lab_3.runtimeconfig.dev.json
+D:\Fork\qa-course\lab3\lab_3\bin\Release\netcoreapp3.1\lab_3.dll
+D:\Fork\qa-course\lab3\lab_3\bin\Release\netcoreapp3.1\lab_3.pdb
+D:\Fork\qa-course\lab3\lab_3\obj\Release\netcoreapp3.1\lab_3.csprojAssemblyReference.cache
+D:\Fork\qa-course\lab3\lab_3\obj\Release\netcoreapp3.1\lab_3.AssemblyInfoInputs.cache
+D:\Fork\qa-course\lab3\lab_3\obj\Release\netcoreapp3.1\lab_3.AssemblyInfo.cs
+D:\Fork\qa-course\lab3\lab_3\obj\Release\netcoreapp3.1\lab_3.csproj.CoreCompileInputs.cache
+D:\Fork\qa-course\lab3\lab_3\obj\Release\netcoreapp3.1\lab_3.dll
+D:\Fork\qa-course\lab3\lab_3\obj\Release\netcoreapp3.1\lab_3.pdb
+D:\Fork\qa-course\lab3\lab_3\obj\Release\netcoreapp3.1\lab_3.genruntimeconfig.cache

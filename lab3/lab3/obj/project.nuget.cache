@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "kqqv9022sJ4MV5Tjv5lNNpexXcjZGcXEgSC6gDlPwp/BkLbAIT34DhbKV2+4QXNMgwt2MYeQf6ryVi2bS/Ne/Q==",
+  "success": true,
+  "projectFilePath": "D:\\Fork\\qa-course\\lab3\\lab3\\lab3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Smart\\.nuget\\packages\\ikvm\\8.1.5717\\ikvm.8.1.5717.nupkg.sha512",
+    "C:\\Users\\Smart\\.nuget\\packages\\mstest.testadapter\\2.1.1\\mstest.testadapter.2.1.1.nupkg.sha512",
+    "C:\\Users\\Smart\\.nuget\\packages\\mstest.testframework\\2.1.1\\mstest.testframework.2.1.1.nupkg.sha512",
+    "C:\\Users\\Smart\\.nuget\\packages\\nunit\\3.13.1\\nunit.3.13.1.nupkg.sha512",
+    "C:\\Users\\Smart\\.nuget\\packages\\nunittestadapter.withframework\\2.0.0\\nunittestadapter.withframework.2.0.0.nupkg.sha512",
+    "C:\\Users\\Smart\\.nuget\\packages\\selenium.chrome.webdriver\\85.0.0\\selenium.chrome.webdriver.85.0.0.nupkg.sha512",
+    "C:\\Users\\Smart\\.nuget\\packages\\selenium.rc\\3.1.0\\selenium.rc.3.1.0.nupkg.sha512",
+    "C:\\Users\\Smart\\.nuget\\packages\\selenium.support\\3.141.0\\selenium.support.3.141.0.nupkg.sha512",
+    "C:\\Users\\Smart\\.nuget\\packages\\selenium.webdriver\\3.141.0\\selenium.webdriver.3.141.0.nupkg.sha512",
+    "C:\\Users\\Smart\\.nuget\\packages\\selenium.webdriver.chromedriver\\89.0.4389.2300\\selenium.webdriver.chromedriver.89.0.4389.2300.nupkg.sha512",
+    "C:\\Users\\Smart\\.nuget\\packages\\selenium.webdriver.geckodriver\\0.29.0\\selenium.webdriver.geckodriver.0.29.0.nupkg.sha512",
+    "C:\\Users\\Smart\\.nuget\\packages\\selenium.webdriverbackedselenium\\3.141.0\\selenium.webdriverbackedselenium.3.141.0.nupkg.sha512"
+  ],
+  "logs": []
+}
